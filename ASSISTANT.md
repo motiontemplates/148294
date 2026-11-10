@@ -4,7 +4,7 @@ Text characters, a work gallery and theatrical animation. Beta: adaptation to ne
 
 Template & full download: https://motiongit.com/@adunext/character-theater
 Version: 0.1.0-alpha8
-Demo available; template download coming soon.
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 
